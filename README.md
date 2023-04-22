@@ -11,6 +11,9 @@ as a corporation interested in slurping up all my watch time and attention:
       1. You get tested about content you can't watch yet before it goes live
       2. You get live-stream potato quality until the Premiere ends and the
         video becomes available as a regular video
+    - Shorts can be okay but are mostly attention-seeking low quality garbage
+      The Shorts tab still works if I ever decide to use it, but I don't get
+      Shorts in recommendations anymore which is what I want.
 - FreshView for YouTube™
   - Hide all videos with a certain watch threshold (I set it to 10 %)
 - Replace YouTube's Home with Subscriptions
