@@ -31,6 +31,10 @@ features as well:
   are scripted videos from "documentary" channels like Summoning Salt or
   Technology Connections or super chill and enjoyable videos like those from
   Primitive Technology
-- Maybe more
+- Hide super old videos (1 month +) in the video page recommendations panel
+  I prefer to watch new content as it comes out.
+  I f I find a channel whose catalog I want to browse through manually, I will
+  do that, but in general, recommending old content is just attention bait and
+  I don't want to see that.
 
 If I ever decide to actually do this this repository will be where it happens.
