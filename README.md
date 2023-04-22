@@ -36,5 +36,11 @@ features as well:
   I f I find a channel whose catalog I want to browse through manually, I will
   do that, but in general, recommending old content is just attention bait and
   I don't want to see that.
+- Hide videos and comments that are not in the languages I speak
+  Not sure if I will use video titles for this or if there is an easy way to
+  get the video metadata, but basically any video that is not in English or
+  Czech should be removed and the same is true for the video page comments.
+  I don't get why this isn't a feature on all user-generated content based
+  sites already.
 
 If I ever decide to actually do this this repository will be where it happens.
