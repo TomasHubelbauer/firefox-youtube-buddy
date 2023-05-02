@@ -10,14 +10,17 @@ as a corporation interested in slurping up all my watch time and attention:
     - Premieres are literally worse than useless:
       1. You get tested about content you can't watch yet before it goes live
       2. You get live-stream potato quality until the Premiere ends and the
-        video becomes available as a regular video
+         video becomes available as a regular video
     - Shorts can be okay but are mostly attention-seeking low quality garbage
+      
       The Shorts tab still works if I ever decide to use it, but I don't get
       Shorts in recommendations anymore which is what I want.
 - [FreshView for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/freshview-for-youtube)
   - Hide all videos with a certain watch threshold (I set it to 10 %)
+  - Disable hiding watched videos on channel pages
 - [Replace YouTube's Home with Subscriptions](https://addons.mozilla.org/en-US/android/addon/ytmysubs)
   - Redirect the Home page to the Subscriptions page every time
+    
     When I am in the mood to discover new content I turn this off for a session
     and visit the Home page to see what it mixed in for me, usually only to find
     it has mixed in old content I already watched (which is not hidden) or stuff
