@@ -4,7 +4,7 @@ I am currently making use of these three Firefox extensions to make my YouTube
 experience to be more in my interest as a viewer and less in YouTube's interest
 as a corporation interested in slurping up all my watch time and attention:
 
-- Better Subscriptions for YouTube™
+- [Better Subscriptions for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/youtube-better-subscriptions)
   - Allow marking videos as watched even if I haven't and won't watch them
   - Allow hiding Premieres and Shorts
     - Premieres are literally worse than useless:
@@ -14,9 +14,9 @@ as a corporation interested in slurping up all my watch time and attention:
     - Shorts can be okay but are mostly attention-seeking low quality garbage
       The Shorts tab still works if I ever decide to use it, but I don't get
       Shorts in recommendations anymore which is what I want.
-- FreshView for YouTube™
+- [FreshView for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/freshview-for-youtube)
   - Hide all videos with a certain watch threshold (I set it to 10 %)
-- Replace YouTube's Home with Subscriptions
+- [Replace YouTube's Home with Subscriptions](https://addons.mozilla.org/en-US/android/addon/ytmysubs)
   - Redirect the Home page to the Subscriptions page every time
     When I am in the mood to discover new content I turn this off for a session
     and visit the Home page to see what it mixed in for me, usually only to find
